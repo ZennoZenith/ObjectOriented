@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "Assignment 9": "bat",
+    ".env": "plaintext",
+    "ostream": "cpp",
+    "bitset": "cpp",
+    "vector": "cpp",
+    "future": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "optional": "cpp",
+    "streambuf": "cpp",
+    "functional": "cpp",
+    "regex": "cpp",
+    "tuple": "cpp",
+    "*.tcc": "cpp",
+    "iostream": "cpp",
+    "typeindex": "cpp",
+    "typeinfo": "cpp",
+    "complex": "cpp"
+  }
+}
